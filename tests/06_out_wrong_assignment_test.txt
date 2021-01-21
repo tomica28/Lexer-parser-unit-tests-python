@@ -1,0 +1,8 @@
+### Błędy parsera
+Syntax error at token ASSIGNMENT in line 3
+Syntax error at token IDENTIFIER in line 3
+Syntax error at EOF
+### Błędy generatora testów jednostkowych spowodowane zwróceniem przez parser None
+Type of error: <class 'Exception'>
+Expection arguments: ('File should only contain class definitions',)
+Expection: File should only contain class definitions

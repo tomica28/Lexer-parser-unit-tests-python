@@ -1,0 +1,10 @@
+### Błędy parsera
+Syntax error at token NEWLINE in line 3
+Syntax error at token INDENT in line 3
+Syntax error at token RETURN in line 4
+Syntax error at token INTEGER_LITERAL in line 4
+Syntax error at EOF
+### Błędy generatora testów jednostkowych spowodowane zwróceniem przez parser None
+Type of error: <class 'Exception'>
+Expection arguments: ('File should only contain class definitions',)
+Expection: File should only contain class definitions
